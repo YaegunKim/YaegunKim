@@ -1,6 +1,8 @@
 <h1 align="center">👋Welcome to my page! I'm Yaegun Kim</h1>
-<h3 align="center">A passionate Sophomore Computer Science major Student</h3>
+<h3 align="center">A passionate Computer Science major Student</h3>
+
 - 🇺🇸 I'm majoring in **Computer Science** and minoring in **Mathematics** at Washington State University.
+- ☕️ I'm currently a sophomore, following **Java** track under **Honors college**.
 - 🔭 I’m currently working on **Project13 - Data_Organizer**
 - 🌱 I’m currently learning **mySQL**
 - 🎓 My interest in is **Big Data** and **AI**
