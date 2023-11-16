@@ -4,24 +4,22 @@
 - 🇺🇸 I'm majoring in **Computer Science** and minoring in **Mathematics** at Washington State University.
 - ☕️ I'm currently a sophomore, following **Java** track under **Honors college**.
 - 🔭 I’m currently working on **Project13 - Data_Organizer**
-- 🌱 I’m currently learning **mySQL**
+- 🌱 I’m currently learning **Spring & mySQL**
 - 🎓 My interest in is **Big Data** and **AI**
 - 📫 How to reach me **yaegun.kim@wsu.edu**
 
 <h3 align="left">Languages and Tools:</h3>
 <h5 align="left">Languages:</h5>
-<p>
-    <img src="https://github.com/YaegunKim/YaegunKim/assets/117888155/ccd0369e-f186-48e8-82b2-e336a3184bc8" width="58" height="25">
-    <img src="https://img.shields.io/badge/python-dfdfdf?style=for-the-badge&logo=python" alt="Python Badge">
-</p>
+
 
 <h5 align="left">Web Dev:</h5>
-
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Express-1F1C1C?style=for-the-badge&logo=Express)
+<p>
+    <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3">
+    <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
+    <img src="https://github.com/YaegunKim/YaegunKim/assets/117888155/ccd0369e-f186-48e8-82b2-e336a3184bc8" width="58" height="25">
+    <img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring">
+</p>
 
 <h5>Data Management:</h5>
 
