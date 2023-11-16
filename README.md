@@ -9,8 +9,6 @@
 - 📫 How to reach me **yaegun.kim@wsu.edu**
 
 <h3 align="left">Languages and Tools:</h3>
-<h5 align="left">Languages:</h5>
-
 
 <h5 align="left">Web Dev:</h5>
 <p>
