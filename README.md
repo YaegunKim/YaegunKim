@@ -5,7 +5,7 @@
 - ☕️ I'm currently a sophomore, following **Java** track under **Honors college**.
 - 🔭 I’m currently working on **Project13 - Data_Organizer**
 - 🌱 I’m currently learning **Spring & mySQL**
-- 🎓 My interest in is **Big Data** and **AI**
+- 🎓 My interest in is **Backend Dev**
 - 📫 How to reach me **yaegun.kim@wsu.edu**
 
 <h3 align="left">Languages and Tools:</h3>
