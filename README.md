@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science major Student</h3>
 
 - 🇺🇸 I'm majoring in **Computer Science** and minoring in **Mathematics** at Washington State University.
-- ☕️ I'm currently a sophomore, following **Java** track under **Honors college**.
+- ☕️ I'm currently a sophomore, following on **Java** track under **Honors college**.
 - 🔭 I’m currently working on **Project13 - Data_Organizer**
 - 🌱 I’m currently learning **Spring & mySQL**
 - 🎓 My interest in is **Backend Dev**
