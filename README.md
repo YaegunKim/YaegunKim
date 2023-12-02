@@ -1,5 +1,7 @@
-<h1 align="center">👋Welcome to my page! I'm Yaegun Kim</h1>
+<h1 align="center">👋Hi! I'm Yaegun Kim</h1>
 <h3 align="center">A passionate Computer Science major Student</h3>
+
+- 🧑‍💻 I'm a **Software Engineer**, but I describes myself as a **Problem Solver**, who accurately identifies issues and find a solution on and beyond programming.
 
 - 🇺🇸 I'm majoring in **Computer Science** and minoring in **Mathematics** at Washington State University.
 - ☕️ I'm currently a sophomore, following on **Java** track under **Honors college**.
