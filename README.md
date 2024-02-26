@@ -3,11 +3,11 @@
 
 - 🧑‍💻 I'm a **Software Engineer**, but I describes myself as a **Problem Solver**, who accurately identifies issues and find a solution on and beyond programming.
 
-- 🇺🇸 I'm majoring in **Computer Science** and minoring in **Mathematics** at Washington State University.
-- ☕️ I'm currently a sophomore, following on **Java** track under **Honors college**.
-- 🔭 I’m currently working on **Project13 - Data_Organizer**
+- 🇺🇸 I'm double majoring in **Computer Science** and **Applied Mathematics** at Washington State University.
+- ☕️ I'm currently a junior, following on **Java** track under **Honors college**.
+- 🔭 I’m currently working on **Project15 - KSA Website**
 - 🌱 I’m currently learning **Spring & mySQL**
-- 🎓 My interest in is **Backend Dev**
+- 🎓 My interest in is **Backend Dev & AI**
 - 📫 How to reach me **yaegun.kim@wsu.edu**
 
 <h3 align="left">Languages and Tools:</h3>
