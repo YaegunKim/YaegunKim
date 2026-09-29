@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="tech stack">
+  <defs>
+    <pattern id="sdots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#e8edf3"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="290" fill="#ffffff"/>
+  <rect width="1200" height="290" fill="url(#sdots)"/>
+  <text x="44" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#57606a">languages</text>
+  <rect x="230" y="30" width="136" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="298.0" y="54" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">JavaScript</text>
+  <rect x="378" y="30" width="136" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="446.0" y="54" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">TypeScript</text>
+  <rect x="526" y="30" width="95" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="573.5" y="54" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">Python</text>
+  <rect x="633" y="30" width="75" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="670.5" y="54" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">Java</text>
+  <rect x="720" y="30" width="44" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="742.0" y="54" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">C</text>
+  <text x="44" y="116" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#57606a">frontend</text>
+  <rect x="230" y="92" width="85" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="272.5" y="116" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">React</text>
+  <rect x="327" y="92" width="156" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="405.0" y="116" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">React Native</text>
+  <rect x="495" y="92" width="75" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="532.5" y="116" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">Expo</text>
+  <rect x="582" y="92" width="105" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="634.5" y="116" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">Next.js</text>
+  <text x="44" y="178" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#57606a">backend &amp; data</text>
+  <rect x="230" y="154" width="105" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="282.5" y="178" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">Node.js</text>
+  <rect x="347" y="154" width="105" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="399.5" y="178" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">FastAPI</text>
+  <rect x="464" y="154" width="136" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="532.0" y="178" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">PostgreSQL</text>
+  <rect x="612" y="154" width="116" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="670.0" y="178" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">Supabase</text>
+  <rect x="740" y="154" width="85" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="782.5" y="178" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">MySQL</text>
+  <rect x="837" y="154" width="105" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="889.5" y="178" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">MongoDB</text>
+  <rect x="954" y="154" width="105" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="1006.5" y="178" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">PostGIS</text>
+  <text x="44" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#57606a">tools</text>
+  <rect x="230" y="216" width="65" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="262.5" y="240" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">Git</text>
+  <rect x="307" y="216" width="95" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="354.5" y="240" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">Docker</text>
+  <rect x="414" y="216" width="95" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="461.5" y="240" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#1f2328">Vercel</text>
+</svg>

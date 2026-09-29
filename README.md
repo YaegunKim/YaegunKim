@@ -26,10 +26,8 @@
 
 ### Stack
 
-**Languages** · JavaScript / TypeScript / Python / Java / C
-**Frontend** · React / React Native / Expo / Next.js
-**Backend & Data** · Node.js / FastAPI / PostgreSQL / Supabase / MySQL / MongoDB / PostGIS
-**Tools** · Git / Docker / Vercel
+<img src="https://raw.githubusercontent.com/YaegunKim/YaegunKim/main/assets/stack-dark.svg#gh-dark-mode-only" width="100%" alt="tech stack" />
+<img src="https://raw.githubusercontent.com/YaegunKim/YaegunKim/main/assets/stack-light.svg#gh-light-mode-only" width="100%" alt="tech stack" />
 
 ### Projects
 
