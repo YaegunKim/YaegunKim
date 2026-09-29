@@ -6,6 +6,11 @@
   <a href="mailto:yaegun.kim@uga.edu"><img src="https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+### $ whoami
+
+<img src="https://raw.githubusercontent.com/YaegunKim/YaegunKim/main/assets/neofetch-dark.svg#gh-dark-mode-only" width="100%" alt="yaegun@uga terminal card" />
+<img src="https://raw.githubusercontent.com/YaegunKim/YaegunKim/main/assets/neofetch-light.svg#gh-light-mode-only" width="100%" alt="yaegun@uga terminal card" />
+
 ### About
 
 - 🎓 CS junior at the **University of Georgia** (transferred Fall 2026) — seeking **Summer 2027 SWE internships**
@@ -13,6 +18,11 @@
 - 🚌 Led development of **CaseyBus**, a shuttle tracking app for U.S. Army Camp Casey with the 25th Transportation Battalion
 - 🪖 ROK Army veteran (KATUSA Military Police, 2024–2026) · KOSAF Dream Scholarship recipient
 - 🌱 Currently studying systems engineering & CS fundamentals
+
+### Journey
+
+<img src="https://raw.githubusercontent.com/YaegunKim/YaegunKim/main/assets/timeline-dark.svg#gh-dark-mode-only" width="100%" alt="journey timeline" />
+<img src="https://raw.githubusercontent.com/YaegunKim/YaegunKim/main/assets/timeline-light.svg#gh-light-mode-only" width="100%" alt="journey timeline" />
 
 ### Stack
 

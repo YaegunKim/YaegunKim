@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="550" viewBox="0 0 1200 550" role="img" aria-label="yaegun@uga terminal card">
+  <defs>
+    <pattern id="ndots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#1b2230"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="550" fill="#0d1117"/>
+  <rect width="1200" height="550" fill="url(#ndots)"/>
+  <rect x="40" y="30" width="1120" height="490" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="40" y1="80" x2="1160" y2="80" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="82" cy="55" r="8" fill="#ff5f57"/>
+  <circle cx="110" cy="55" r="8" fill="#febc2e"/>
+  <circle cx="138" cy="55" r="8" fill="#28c840"/>
+  <text x="600" y="61" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#8b949e">yaegun@uga: ~</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19">
+    <text x="90" y="122"><tspan fill="#58a6ff" font-weight="700">$</tspan><tspan fill="#f0f6fc"> whoami</tspan></text>
+    <text x="90" y="154" fill="#8b949e">yaegun_kim</text>
+    <text x="90" y="186"><tspan fill="#58a6ff" font-weight="700">$</tspan><tspan fill="#f0f6fc"> cat status.txt</tspan></text>
+    <text x="90" y="218" fill="#8b949e">CS junior @ UGA · ROK Army veteran (KATUSA MP)</text>
+    <text x="90" y="250" fill="#8b949e">Founder &amp; Lead Engineer — SOONLife · 1,800+ users / 17 unis</text>
+    <text x="90" y="282"><tspan fill="#58a6ff" font-weight="700">$</tspan><tspan fill="#f0f6fc"> ls ~/stack</tspan></text>
+    <text x="90" y="314" fill="#8b949e">languages:  javascript · typescript · python · java · c</text>
+    <text x="90" y="346" fill="#8b949e">frontend:   react · react-native · expo · next.js</text>
+    <text x="90" y="378" fill="#8b949e">backend:    node.js · fastapi · postgresql · supabase · postgis</text>
+    <text x="90" y="410"><tspan fill="#58a6ff" font-weight="700">$</tspan><tspan fill="#f0f6fc"> ./summer-2027 --apply</tspan></text>
+    <text x="90" y="442"><tspan fill="#3fb950" font-weight="700">▸</tspan><tspan fill="#8b949e"> seeking SWE internships · Atlanta preferred · CPT OK</tspan></text>
+    <text x="90" y="474"><tspan fill="#58a6ff" font-weight="700">$</tspan></text>
+    <rect x="116" y="456" width="12" height="22" fill="#58a6ff">
+      <animate attributeName="opacity" values="1;1;0;0;1;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

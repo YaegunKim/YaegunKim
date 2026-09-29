@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Journey timeline">
+  <defs>
+    <pattern id="tdots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#1b2230"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" fill="#0d1117"/>
+  <rect width="1200" height="360" fill="url(#tdots)"/>
+  <line x1="80" y1="190" x2="1080" y2="190" stroke="#30363d" stroke-width="2"/>
+  <polygon points="1080,182 1102,190 1080,198" fill="#30363d"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <line x1="140" y1="181" x2="140" y2="166" stroke="#30363d" stroke-width="2"/>
+    <circle cx="140" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <text x="140" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2022</text>
+    <text x="140" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">WSU</text>
+    <text x="140" y="140" text-anchor="middle" font-size="16" fill="#8b949e">Began CS @ WSU</text>
+    <line x1="430" y1="199" x2="430" y2="214" stroke="#30363d" stroke-width="2"/>
+    <circle cx="430" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <text x="430" y="246" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2024–26</text>
+    <text x="430" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">KATUSA</text>
+    <text x="430" y="308" text-anchor="middle" font-size="16" fill="#8b949e">MP @ Camp Casey</text>
+    <text x="430" y="330" text-anchor="middle" font-size="16" fill="#8b949e">Built CaseyBus app</text>
+    <line x1="720" y1="181" x2="720" y2="166" stroke="#30363d" stroke-width="2"/>
+    <circle cx="720" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <text x="720" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2026</text>
+    <text x="720" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">UGA</text>
+    <text x="720" y="140" text-anchor="middle" font-size="16" fill="#8b949e">Transferred as junior</text>
+    <line x1="1010" y1="199" x2="1010" y2="214" stroke="#30363d" stroke-width="2"/>
+    <circle cx="1010" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3" stroke-dasharray="4 3"/>
+    <text x="1010" y="246" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2027</text>
+    <text x="1010" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">SWE Intern</text>
+    <text x="1010" y="308" text-anchor="middle" font-size="16" fill="#8b949e">Summer 2027 · seeking</text>
+  </g>
+</svg>
