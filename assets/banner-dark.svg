@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Yaegun Kim">
+  <defs>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#1b2230"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" fill="#0d1117"/>
+  <rect width="1200" height="340" fill="url(#dots)"/>
+  <g stroke="#232d3f" stroke-width="2" fill="none">
+    <circle cx="1010" cy="170" r="90"/>
+    <circle cx="1010" cy="170" r="58"/>
+    <path d="M1010 56 v-24 M1010 284 v24 M896 170 h-24 M1124 170 h24"/>
+  </g>
+  <rect x="72" y="86" width="6" height="168" rx="3" fill="#58a6ff"/>
+  <text x="104" y="162" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-0.5" fill="#f0f6fc">Yaegun Kim</text>
+  <text x="106" y="214" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="22" fill="#8b949e">CS junior @ UGA · Founder &amp; Lead Engineer, SOONLife</text>
+  <text x="106" y="250" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="22" fill="#8b949e">1,800+ users · 17 universities · Summer 2027 SWE</text>
+</svg>
