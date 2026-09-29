@@ -6,36 +6,48 @@
   </defs>
   <rect width="1200" height="360" fill="#0d1117"/>
   <rect width="1200" height="360" fill="url(#tdots)"/>
-  <line x1="70" y1="190" x2="1120" y2="190" stroke="#30363d" stroke-width="2"/>
-  <polygon points="1120,182 1142,190 1120,198" fill="#30363d"/>
+  <line x1="60" y1="190" x2="1100" y2="190" stroke="#30363d" stroke-width="2"/>
+  <polygon points="1100,182 1122,190 1100,198" fill="#30363d"/>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-    <line x1="120" y1="181" x2="120" y2="166" stroke="#30363d" stroke-width="2"/>
-    <circle cx="120" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
-    <text x="120" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2022</text>
-    <text x="120" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">WSU</text>
-    <text x="120" y="140" text-anchor="middle" font-size="16" fill="#8b949e">Began CS @ WSU</text>
-    <line x1="360" y1="199" x2="360" y2="214" stroke="#30363d" stroke-width="2"/>
-    <circle cx="360" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
-    <text x="360" y="246" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2024–26</text>
-    <text x="360" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">KATUSA</text>
-    <text x="360" y="308" text-anchor="middle" font-size="16" fill="#8b949e">MP @ Camp Casey</text>
-    <text x="360" y="330" text-anchor="middle" font-size="16" fill="#8b949e">Army medal · CaseyBus</text>
-    <line x1="600" y1="181" x2="600" y2="166" stroke="#30363d" stroke-width="2"/>
-    <circle cx="600" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
-    <text x="600" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2026.04</text>
-    <text x="600" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">SOONLife</text>
-    <text x="600" y="140" text-anchor="middle" font-size="16" fill="#8b949e">Founded Apr 22</text>
-    <text x="600" y="162" text-anchor="middle" font-size="16" fill="#8b949e">1,800+ users · 17 unis</text>
-    <line x1="840" y1="199" x2="840" y2="214" stroke="#30363d" stroke-width="2"/>
-    <circle cx="840" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
-    <text x="840" y="246" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2026.08</text>
-    <text x="840" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">UGA</text>
-    <text x="840" y="308" text-anchor="middle" font-size="16" fill="#8b949e">Transferred as junior</text>
-    <text x="840" y="330" text-anchor="middle" font-size="16" fill="#8b949e">KOSAF Dream Scholar</text>
-    <line x1="1080" y1="181" x2="1080" y2="166" stroke="#30363d" stroke-width="2"/>
-    <circle cx="1080" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3" stroke-dasharray="4 3"/>
-    <text x="1080" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2027</text>
-    <text x="1080" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">SWE Intern</text>
-    <text x="1080" y="140" text-anchor="middle" font-size="16" fill="#8b949e">Summer 2027 · seeking</text>
+    <line x1="90" y1="181" x2="90" y2="166" stroke="#30363d" stroke-width="2"/>
+    <circle cx="90" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <text x="90" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2022</text>
+    <text x="90" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">WSU</text>
+    <text x="90" y="140" text-anchor="middle" font-size="16" fill="#8b949e">Began CS @ WSU</text>
+    <line x1="250" y1="199" x2="250" y2="214" stroke="#30363d" stroke-width="2"/>
+    <circle cx="250" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <text x="250" y="246" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2023.05–08</text>
+    <text x="250" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">Atom Tech Solutions</text>
+    <text x="250" y="308" text-anchor="middle" font-size="16" fill="#8b949e">Frontend Intern · Berkeley</text>
+    <line x1="410" y1="181" x2="410" y2="166" stroke="#30363d" stroke-width="2"/>
+    <circle cx="410" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <text x="410" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2024–26</text>
+    <text x="410" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">KATUSA</text>
+    <text x="410" y="140" text-anchor="middle" font-size="16" fill="#8b949e">MP @ Camp Casey</text>
+    <text x="410" y="162" text-anchor="middle" font-size="16" fill="#8b949e">Army medal · CaseyBus</text>
+    <line x1="570" y1="199" x2="570" y2="214" stroke="#30363d" stroke-width="2"/>
+    <circle cx="570" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <text x="570" y="246" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2026.04</text>
+    <text x="570" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">SOONLife</text>
+    <text x="570" y="308" text-anchor="middle" font-size="16" fill="#8b949e">Founded Apr 22</text>
+    <text x="570" y="330" text-anchor="middle" font-size="16" fill="#8b949e">1,800+ users · 17 unis</text>
+    <line x1="730" y1="181" x2="730" y2="166" stroke="#30363d" stroke-width="2"/>
+    <circle cx="730" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <text x="730" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2026.04–08</text>
+    <text x="730" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">DataBuilder</text>
+    <text x="730" y="140" text-anchor="middle" font-size="16" fill="#8b949e">Product Engineer</text>
+    <text x="730" y="162" text-anchor="middle" font-size="16" fill="#8b949e">(Contract)</text>
+    <line x1="890" y1="199" x2="890" y2="214" stroke="#30363d" stroke-width="2"/>
+    <circle cx="890" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <text x="890" y="246" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2026.08</text>
+    <text x="890" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">UGA</text>
+    <text x="890" y="308" text-anchor="middle" font-size="16" fill="#8b949e">Transferred as junior</text>
+    <text x="890" y="330" text-anchor="middle" font-size="16" fill="#8b949e">KOSAF Dream Scholar</text>
+    <line x1="1050" y1="181" x2="1050" y2="166" stroke="#30363d" stroke-width="2"/>
+    <circle cx="1050" cy="190" r="9" fill="#0d1117" stroke="#58a6ff" stroke-width="3" stroke-dasharray="4 3"/>
+    <text x="1050" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">2027</text>
+    <text x="1050" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">SWE Intern</text>
+    <text x="1050" y="140" text-anchor="middle" font-size="16" fill="#8b949e">Summer 2027</text>
+    <text x="1050" y="162" text-anchor="middle" font-size="16" fill="#8b949e">seeking</text>
   </g>
 </svg>
