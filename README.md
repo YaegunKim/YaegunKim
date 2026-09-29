@@ -36,6 +36,7 @@
 | [CaseyBus](https://github.com/YaegunKim/Project18-CaseyBus) | Shuttle tracking for Camp Casey — offline-first, restricted network · Lead Developer | React Native, Expo |
 | UOS Life | Campus dining & club discovery · 635 / 261 MAU · Frontend Developer | React |
 | DataBuilder | Indoor navigation platform · CAD→GeoJSON pipeline, pgRouting A\* routing · Product Engineer (Contract) | FastAPI, React, PostGIS |
+| Holy Spirit Conf. 2026 | Conference registration & realtime queueing for 1,200+ attendees · Leader & Software Developer | Supabase, PostgreSQL, Realtime |
 
 ### Stats
 
